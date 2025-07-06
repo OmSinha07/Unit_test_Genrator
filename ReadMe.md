@@ -122,7 +122,7 @@ python test_runner/build_and_coverage.py --source orgChartApi-codebase --tests r
 
 3. **Build and Generate Coverage:**
    ```bash
-   python test_runner/build_and_coverage.py
+   python test_runner/run_models.py
    ```
 
 4. **View Coverage Report:**
@@ -173,7 +173,7 @@ This project is part of the Keploy AI Sprint. Contributions and improvements are
 
 ## 📄 License
 
-This project is submitted as Assignment 5 for Keploy's AI Automation Sprint.
+This project is submitted as Assignment 5 for Keploy's API Fellowship.
 
 ---
 
