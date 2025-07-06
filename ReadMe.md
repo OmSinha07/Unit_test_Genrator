@@ -3,7 +3,7 @@
 > **Assignment 5: Keploy AI Sprint**  
 > This project demonstrates the automation of unit test generation, refinement, build, and coverage reporting for a C++ application using Qwen 3B (via Ollama) and traditional tools like Google Test and LCOV.
 
-**Target Codebase:** [keploy/orgChartApp](https://github.com/keploy/orgChartApp)
+**Target Codebase:** [keploy/orgChartApp](https://github.com/keploy/orgChartApi)
 
 ---
 
@@ -88,8 +88,10 @@ python test_runner/build_and_coverage.py --source orgChartApi-codebase --tests r
 | **Function Coverage** | 43.04% overall |
 | **Model Coverage** | Up to 68% |
 
-**Coverage Report Path:** `buildlog/coverage_report/index.html`
-
+**Coverage Report Path:** ``
+### Sample Coverage Report
+![Coverage Report Screenshot](coverage/Screenshot%202025-07-05%20163759.png)
+*LCOV Coverage Report showing detailed line and function coverage metrics*
 ---
 
 ## 🚀 Quick Start Guide
