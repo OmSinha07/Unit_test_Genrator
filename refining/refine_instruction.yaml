@@ -1,0 +1,8 @@
+rules:
+  - Remove duplicate or redundant test cases.
+  - Improve test case names for clarity and consistency.
+  - Ensure correct #include directives like <gtest/gtest.h>.
+  - Improve formatting and structure of test cases.
+  - Only test public interfaces.
+  - Do not change correct logic unless broken.
+  - Maintain Google Test compatibility.

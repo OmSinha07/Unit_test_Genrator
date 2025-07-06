@@ -1,0 +1,14 @@
+task: "generate_unit_tests"
+description: |
+  Generate Google Test C++ unit tests for the provided code.
+  Follow all best practices and rules.
+
+rules:
+  - Output only valid Google Test (GTest) C++ code.
+  - Do not include any explanation or comments.
+  - Include all necessary #include statements.
+  - Match the test names with the functions or classes being tested.
+  - Only test public interfaces.
+  - Each test should be independent.
+  - Cover constructor, getter, setter, and serialization logic.
+  - Add placeholder test cases for unimplemented logic.

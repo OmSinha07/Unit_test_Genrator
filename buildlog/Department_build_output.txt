@@ -1,0 +1,5 @@
+
+/usr/bin/ld: cannot find ../orgChartApi/third_party/jsoncpp/lib/libjsoncpp.a: No such file or directory
+/usr/bin/ld: cannot find ../orgChartApi/third_party/trantor/lib/libtrantor.a: No such file or directory
+/usr/bin/ld: cannot find ../orgChartApi/third_party/drogon/lib/libdrogon.a: No such file or directory
+collect2: error: ld returned 1 exit status

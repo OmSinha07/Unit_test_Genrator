@@ -1,0 +1,10 @@
+task: "fix_build_errors"
+description: |
+  The provided C++ file and build logs failed to compile.
+  Identify the root cause and correct the code to build successfully.
+
+rules:
+  - Fix only the errors reported in the build logs.
+  - Do not add or remove unrelated code.
+  - Return fixed code inside triple backticks (```).
+  - No explanation unless asked.

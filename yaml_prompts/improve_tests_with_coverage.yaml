@@ -1,0 +1,9 @@
+task: "improve_tests_based_on_coverage"
+description: |
+  Improve the provided Google Test C++ unit tests based on the coverage report.
+
+rules:
+  - Add missing tests for uncovered code areas.
+  - Remove redundant or unnecessary tests.
+  - Ensure test names are clear and consistent.
+  - Keep the code compatible with Google Test.
