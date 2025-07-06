@@ -75,7 +75,7 @@ python refining/refine_tests.py --input test/ --output refining/
   - LCOV coverage reports generated: `buildlog/coverage_report/index.html`
 
 ```bash
-python test_runner/build_and_coverage.py --source orgChartApi-codebase --tests refining/
+python test_runner/run_models.py --source orgChartApi-codebase --tests refining/
 ```
 
 ---
