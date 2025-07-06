@@ -1,6 +1,6 @@
 # Unit Test Generator using Qwen 3B
 
-> **Assignment 5: Keploy AI Sprint**  
+> **Assignment 5: Keploy API FELLOWSHIP**  
 > This project demonstrates the automation of unit test generation, refinement, build, and coverage reporting for a C++ application using Qwen 3B (via Ollama) and traditional tools like Google Test and LCOV.
 
 **Target Codebase:** [keploy/orgChartApp](https://github.com/keploy/orgChartApi)
@@ -167,7 +167,7 @@ The system automatically handles common build errors including:
 
 ## 🤝 Contributing
 
-This project is part of the Keploy AI Sprint. Contributions and improvements are welcome!
+This project is part of the Keploy API Fellowship. Contributions and improvements are welcome!
 
 ---
 
